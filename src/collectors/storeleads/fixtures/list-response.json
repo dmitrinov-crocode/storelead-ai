@@ -1,0 +1,208 @@
+{
+  "_comment": "Recorded from the live StoreLeads API on 2026-08-28: GET /all/domain?f:cc=PL&f:p=shopify&sort=rank&page_size=3. apps[] and technologies[] were truncated to the fields the mapper reads; nothing else was altered.",
+  "domains": [
+    {
+      "theme": {
+        "name": "streamline",
+        "style": "Unknown",
+        "vendor": "Unknown",
+        "version": "3.2.1"
+      },
+      "city": "Warsaw",
+      "last_updated_at": "2026-08-20T00:00:00",
+      "country_code": "PL",
+      "currency_code": "USD",
+      "title": "Milla – Occasion Worthy Dresses & Exquisite Eveningwear",
+      "platform_domain": "millanova.myshopify.com",
+      "platform": "shopify",
+      "merchant_name": "Milla",
+      "created_at": "2022-06-17T00:00:00",
+      "name": "itsmilla.com",
+      "apps": [
+        {
+          "name": "AfterShip Order Tracking",
+          "token": "aftership",
+          "state": "Active",
+          "categories": ["order tracking", "shipping"],
+          "installs": 15450,
+          "installed_at": "2022-06-18T20:22:11Z"
+        },
+        {
+          "name": "Attentive: AI‑led Email &SMS",
+          "token": "attentive",
+          "state": "Active",
+          "categories": ["email marketing", "sms marketing"],
+          "installs": 9027,
+          "installed_at": "2024-07-02T22:59:55Z"
+        },
+        {
+          "name": "Nova: Multi Currency Converter",
+          "token": "auto-currency-switcher-1",
+          "state": "Active",
+          "categories": ["currency and translation"],
+          "installs": 16399,
+          "installed_at": "2025-04-07T22:36:19Z"
+        },
+        {
+          "name": "Beans iD Verification",
+          "token": "beansid-verification",
+          "state": "Active",
+          "categories": ["discounts"],
+          "installs": 985,
+          "installed_at": "2025-03-17T22:01:26Z"
+        }
+      ],
+      "categories": ["/Apparel/Women's Clothing"],
+      "technologies": [
+        {
+          "name": "Aftership"
+        },
+        {
+          "name": "Aftership Return Center"
+        },
+        {
+          "name": "Apple Pay"
+        }
+      ],
+      "rank": 3178,
+      "estimated_sales": 160349984,
+      "estimated_visits": 282283,
+      "product_count": 308,
+      "platform_rank": 1291
+    },
+    {
+      "theme": {
+        "name": "unsen",
+        "style": "Unknown",
+        "vendor": "Unknown",
+        "version": "Unknown"
+      },
+      "city": "Gdańsk",
+      "last_updated_at": "2026-08-21T00:00:00",
+      "country_code": "PL",
+      "currency_code": "USD",
+      "title": "Ready-Made Business Model Canvas, SWOT, PESTEL & BCG Reports – businessmodelcanvastemplate.com",
+      "platform_domain": "0aafb1-2.myshopify.com",
+      "platform": "shopify",
+      "merchant_name": "businessmodelcanvastemplate.com",
+      "created_at": "2026-02-06T00:00:00",
+      "name": "businessmodelcanvastemplate.com",
+      "apps": [
+        {
+          "name": "Digital Downloads ‑ Fileflare",
+          "token": "digital-assets",
+          "state": "Active",
+          "categories": ["digital products", "digital goods and services - other"],
+          "installs": 1286,
+          "installed_at": "2026-03-25T18:24:40Z"
+        },
+        {
+          "name": "Judge.me Product Reviews App",
+          "token": "judgeme",
+          "state": "Active",
+          "categories": ["product reviews", "seo"],
+          "installs": 619657,
+          "installed_at": "2026-03-25T18:24:40Z"
+        },
+        {
+          "name": "404/301 URL Redirects by Nabu",
+          "token": "nabu-redirect-manager",
+          "state": "Active",
+          "categories": ["seo"],
+          "installs": 1152,
+          "installed_at": "2026-03-25T18:24:40Z"
+        },
+        {
+          "name": "Shopify Forms",
+          "token": "shopify-forms",
+          "state": "Active",
+          "categories": ["email marketing", "pop-ups"],
+          "installs": 207212,
+          "installed_at": "2026-08-07T07:05:49Z"
+        }
+      ],
+      "categories": ["/Business & Industrial/Business Services"],
+      "technologies": [
+        {
+          "name": "Apple Pay"
+        },
+        {
+          "name": "Arrive"
+        },
+        {
+          "name": "Cloudflare"
+        }
+      ],
+      "rank": 7590,
+      "estimated_sales": 130814238,
+      "estimated_visits": 230288,
+      "product_count": 25001,
+      "platform_rank": 3230
+    },
+    {
+      "theme": {
+        "name": "keyshortscom/main",
+        "style": "Unknown",
+        "vendor": "Unknown",
+        "version": "Unknown"
+      },
+      "city": "Łódź",
+      "last_updated_at": "2026-08-20T00:00:00",
+      "country_code": "PL",
+      "currency_code": "USD",
+      "title": "Keyboard Stickers For MacBooks And All Laptop Brands • Keyshorts",
+      "platform_domain": "keyshortscom.myshopify.com",
+      "platform": "shopify",
+      "merchant_name": "keyshorts.com",
+      "created_at": "2016-12-30T00:00:00",
+      "name": "keyshorts.com",
+      "apps": [
+        {
+          "name": "17TRACK Order Tracking",
+          "token": "17track",
+          "state": "Active",
+          "categories": ["order tracking", "shipping"],
+          "installs": 79153,
+          "installed_at": "2022-05-30T14:50:01Z"
+        },
+        {
+          "name": "Refersion Affiliate Marketing",
+          "token": "refersion",
+          "state": "Active",
+          "categories": ["affiliate programs", "marketing - other"],
+          "installs": 4154,
+          "installed_at": "2019-01-22T01:25:36Z"
+        },
+        {
+          "name": "Yotpo: Product Reviews App",
+          "token": "yotpo-social-reviews",
+          "state": "Active",
+          "categories": ["product reviews", "seo"],
+          "installs": 37181,
+          "installed_at": "2023-04-08T03:06:25Z"
+        }
+      ],
+      "categories": ["/Computers/Computer Hardware/Laptops & Notebooks"],
+      "technologies": [
+        {
+          "name": "Apple Pay"
+        },
+        {
+          "name": "Arrive"
+        },
+        {
+          "name": "Cloudflare"
+        }
+      ],
+      "rank": 12591,
+      "estimated_sales": 73413940,
+      "estimated_visits": 129239,
+      "product_count": 691,
+      "platform_rank": 5469
+    }
+  ],
+  "has_next_page": true,
+  "next_cursor": "5b22205c7530303031406425705c75303030305c75303030305c75303030305c75303030305c7530303030222c22313339353739225d",
+  "page_size": 3,
+  "total": 19201
+}

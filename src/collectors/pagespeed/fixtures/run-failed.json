@@ -1,0 +1,35 @@
+{
+  "captchaResult": "CAPTCHA_NOT_NEEDED",
+  "kind": "pagespeedonline#result",
+  "id": "https://shop-that-is-down.pl/",
+  "lighthouseResult": {
+    "requestedUrl": "https://shop-that-is-down.pl/",
+    "finalUrl": "https://shop-that-is-down.pl/",
+    "lighthouseVersion": "12.2.1",
+    "fetchTime": "2026-09-01T07:44:19.002Z",
+    "configSettings": { "formFactor": "desktop", "locale": "en-US" },
+    "runtimeError": {
+      "code": "ERRORED_DOCUMENT_REQUEST",
+      "message": "Lighthouse was unable to reliably load the page you requested. (Status code: 503)"
+    },
+    "audits": {
+      "first-contentful-paint": {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": null,
+        "scoreDisplayMode": "error",
+        "errorMessage": "Lighthouse was unable to reliably load the page you requested."
+      },
+      "largest-contentful-paint": {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": null,
+        "scoreDisplayMode": "error"
+      }
+    },
+    "categories": {
+      "performance": { "id": "performance", "title": "Performance", "score": null }
+    }
+  },
+  "analysisUTCTimestamp": "2026-09-01T07:44:19.002Z"
+}
