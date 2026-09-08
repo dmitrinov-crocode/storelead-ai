@@ -1,0 +1,7 @@
+node_modules
+data
+screenshots
+dist
+.next
+package-lock.json
+apps/dashboard

@@ -1,0 +1,303 @@
+{
+  "updatedAt": "2026-09-01",
+  "note": "How to refresh this file and how to add a theme by hand: docs/THEMES.md",
+  "themes": {
+    "boundless": {
+      "displayName": "Boundless",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "brooklyn": {
+      "displayName": "Brooklyn",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "colorblock": {
+      "displayName": "Colorblock",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "craft": {
+      "displayName": "Craft",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "crave": {
+      "displayName": "Crave",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "dawn": {
+      "displayName": "Dawn",
+      "architecture": "os2",
+      "source": "https://github.com/Shopify/dawn/releases",
+      "github": "Shopify/dawn",
+      "latest": {
+        "version": "16.0.0",
+        "releasedAt": "2026-08-10"
+      },
+      "releases": [
+        {
+          "version": "16.0.0",
+          "releasedAt": "2026-08-10"
+        },
+        {
+          "version": "15.5.0",
+          "releasedAt": "2026-06-19"
+        },
+        {
+          "version": "15.4.1",
+          "releasedAt": "2025-12-04"
+        },
+        {
+          "version": "15.4.0",
+          "releasedAt": "2025-07-18"
+        },
+        {
+          "version": "15.3.0",
+          "releasedAt": "2025-02-28"
+        },
+        {
+          "version": "15.2.0",
+          "releasedAt": "2024-10-03"
+        },
+        {
+          "version": "15.1.0",
+          "releasedAt": "2024-09-12"
+        },
+        {
+          "version": "15.0.1",
+          "releasedAt": "2024-07-30"
+        },
+        {
+          "version": "15.0.0",
+          "releasedAt": "2024-07-03"
+        },
+        {
+          "version": "14.0.0",
+          "releasedAt": "2024-04-24"
+        },
+        {
+          "version": "13.0.1",
+          "releasedAt": "2024-02-22"
+        },
+        {
+          "version": "13.0.0",
+          "releasedAt": "2024-01-31"
+        },
+        {
+          "version": "12.0.0",
+          "releasedAt": "2023-10-31"
+        },
+        {
+          "version": "11.0.0",
+          "releasedAt": "2023-07-26"
+        },
+        {
+          "version": "10.0.0",
+          "releasedAt": "2023-06-05"
+        },
+        {
+          "version": "9.0.0",
+          "releasedAt": "2023-03-24"
+        },
+        {
+          "version": "8.0.1",
+          "releasedAt": "2023-03-06"
+        },
+        {
+          "version": "8.0.0",
+          "releasedAt": "2023-02-03"
+        },
+        {
+          "version": "7.0.1",
+          "releasedAt": "2022-09-29"
+        },
+        {
+          "version": "7.0.0",
+          "releasedAt": "2022-09-15"
+        },
+        {
+          "version": "6.0.2",
+          "releasedAt": "2022-06-22"
+        },
+        {
+          "version": "6.0.1",
+          "releasedAt": "2022-06-10"
+        },
+        {
+          "version": "6.0.0",
+          "releasedAt": "2022-06-07"
+        },
+        {
+          "version": "5.0.0",
+          "releasedAt": "2022-04-15"
+        },
+        {
+          "version": "4.0.0",
+          "releasedAt": "2022-03-02"
+        },
+        {
+          "version": "3.0.0",
+          "releasedAt": "2022-01-28"
+        },
+        {
+          "version": "2.5.0",
+          "releasedAt": "2021-12-16"
+        },
+        {
+          "version": "2.4.0",
+          "releasedAt": "2021-11-12"
+        },
+        {
+          "version": "2.3.0",
+          "releasedAt": "2021-10-13"
+        },
+        {
+          "version": "2.2.0",
+          "releasedAt": "2021-09-29"
+        },
+        {
+          "version": "2.1.0",
+          "releasedAt": "2021-09-13"
+        },
+        {
+          "version": "2.0.0",
+          "releasedAt": "2021-08-31"
+        },
+        {
+          "version": "1.1.0",
+          "releasedAt": "2021-07-14"
+        },
+        {
+          "version": "1.0.0",
+          "releasedAt": "2021-06-29"
+        }
+      ]
+    },
+    "debut": {
+      "displayName": "Debut",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "express": {
+      "displayName": "Express",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "horizon": {
+      "displayName": "Horizon",
+      "architecture": "theme_blocks",
+      "source": "https://github.com/Shopify/horizon — config/settings_schema.json (репозиторий без релизов и тегов)",
+      "github": "Shopify/horizon",
+      "latest": {
+        "version": "4.1.5",
+        "releasedAt": null
+      },
+      "releases": []
+    },
+    "jumpstart": {
+      "displayName": "Jumpstart",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "minimal": {
+      "displayName": "Minimal",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "narrative": {
+      "displayName": "Narrative",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "origin": {
+      "displayName": "Origin",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "pop": {
+      "displayName": "Pop",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "publii": {
+      "displayName": "Publii",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "refresh": {
+      "displayName": "Refresh",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "ride": {
+      "displayName": "Ride",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "sense": {
+      "displayName": "Sense",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "simple": {
+      "displayName": "Simple",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "spotlight": {
+      "displayName": "Spotlight",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "studio": {
+      "displayName": "Studio",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "supply": {
+      "displayName": "Supply",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    },
+    "taste": {
+      "displayName": "Taste",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "trade": {
+      "displayName": "Trade",
+      "architecture": "os2",
+      "source": "Shopify's free Online Store 2.0 lineup",
+      "releases": []
+    },
+    "venture": {
+      "displayName": "Venture",
+      "architecture": "vintage",
+      "source": "Shopify's free pre-Online-Store-2.0 lineup, retired from the theme store in 2021",
+      "releases": []
+    }
+  }
+}

@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.next/
+out/
+
+# Local runtime data — never committed
+data/
+screenshots/
+
+.env
+.env.local
+*.local
+
+.DS_Store
+.idea/
+*.log

@@ -1,0 +1,375 @@
+{
+  "captchaResult": "CAPTCHA_NOT_NEEDED",
+  "kind": "pagespeedonline#result",
+  "id": "https://keyshorts.com/",
+  "loadingExperience": {
+    "id": "https://keyshorts.com/",
+    "metrics": {
+      "CUMULATIVE_LAYOUT_SHIFT_SCORE": {
+        "percentile": 0,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 10,
+            "proportion": 0.8966
+          },
+          {
+            "min": 10,
+            "max": 25,
+            "proportion": 0.0701
+          },
+          {
+            "min": 25,
+            "proportion": 0.0333
+          }
+        ],
+        "category": "FAST"
+      },
+      "EXPERIMENTAL_TIME_TO_FIRST_BYTE": {
+        "percentile": 667,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 800,
+            "proportion": 0.8
+          },
+          {
+            "min": 800,
+            "max": 1800,
+            "proportion": 0.1645
+          },
+          {
+            "min": 1800,
+            "proportion": 0.0355
+          }
+        ],
+        "category": "FAST"
+      },
+      "FIRST_CONTENTFUL_PAINT_MS": {
+        "percentile": 1174,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 1800,
+            "proportion": 0.8982
+          },
+          {
+            "min": 1800,
+            "max": 3000,
+            "proportion": 0.0694
+          },
+          {
+            "min": 3000,
+            "proportion": 0.0324
+          }
+        ],
+        "category": "FAST"
+      },
+      "INTERACTION_TO_NEXT_PAINT": {
+        "percentile": 70,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 200,
+            "proportion": 1
+          },
+          {
+            "min": 200,
+            "max": 500,
+            "proportion": 0
+          },
+          {
+            "min": 500,
+            "proportion": 0
+          }
+        ],
+        "category": "FAST"
+      },
+      "LARGEST_CONTENTFUL_PAINT_MS": {
+        "percentile": 1218,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 2500,
+            "proportion": 0.9471
+          },
+          {
+            "min": 2500,
+            "max": 4000,
+            "proportion": 0.0367
+          },
+          {
+            "min": 4000,
+            "proportion": 0.0162
+          }
+        ],
+        "category": "FAST"
+      }
+    },
+    "overall_category": "FAST",
+    "initial_url": "https://keyshorts.com/"
+  },
+  "originLoadingExperience": {
+    "id": "https://keyshorts.com",
+    "metrics": {
+      "CUMULATIVE_LAYOUT_SHIFT_SCORE": {
+        "percentile": 0,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 10,
+            "proportion": 0.9416
+          },
+          {
+            "min": 10,
+            "max": 25,
+            "proportion": 0.0307
+          },
+          {
+            "min": 25,
+            "proportion": 0.0277
+          }
+        ],
+        "category": "FAST"
+      },
+      "EXPERIMENTAL_TIME_TO_FIRST_BYTE": {
+        "percentile": 862,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 800,
+            "proportion": 0.7184
+          },
+          {
+            "min": 800,
+            "max": 1800,
+            "proportion": 0.2105
+          },
+          {
+            "min": 1800,
+            "proportion": 0.0712
+          }
+        ],
+        "category": "AVERAGE"
+      },
+      "FIRST_CONTENTFUL_PAINT_MS": {
+        "percentile": 1462,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 1800,
+            "proportion": 0.8375
+          },
+          {
+            "min": 1800,
+            "max": 3000,
+            "proportion": 0.1118
+          },
+          {
+            "min": 3000,
+            "proportion": 0.0507
+          }
+        ],
+        "category": "FAST"
+      },
+      "INTERACTION_TO_NEXT_PAINT": {
+        "percentile": 103,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 200,
+            "proportion": 0.917
+          },
+          {
+            "min": 200,
+            "max": 500,
+            "proportion": 0.0679
+          },
+          {
+            "min": 500,
+            "proportion": 0.0152
+          }
+        ],
+        "category": "FAST"
+      },
+      "LARGEST_CONTENTFUL_PAINT_MS": {
+        "percentile": 1651,
+        "distributions": [
+          {
+            "min": 0,
+            "max": 2500,
+            "proportion": 0.8927
+          },
+          {
+            "min": 2500,
+            "max": 4000,
+            "proportion": 0.0663
+          },
+          {
+            "min": 4000,
+            "proportion": 0.0411
+          }
+        ],
+        "category": "FAST"
+      }
+    },
+    "overall_category": "AVERAGE",
+    "initial_url": "https://keyshorts.com/"
+  },
+  "lighthouseResult": {
+    "requestedUrl": "https://keyshorts.com/",
+    "finalUrl": "https://keyshorts.com/",
+    "finalDisplayedUrl": "https://keyshorts.com/",
+    "lighthouseVersion": "13.4.1",
+    "fetchTime": "2026-09-01T12:57:12.132Z",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.71 Safari/537.36",
+    "configSettings": {
+      "emulatedFormFactor": "mobile",
+      "formFactor": "mobile",
+      "locale": "en-US",
+      "onlyCategories": ["performance", "accessibility", "best-practices", "seo"],
+      "channel": "lr"
+    },
+    "audits": {
+      "first-contentful-paint": {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more about the First Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/first-contentful-paint/).",
+        "score": 0.48,
+        "scoreDisplayMode": "numeric",
+        "displayValue": "3.0 s",
+        "numericValue": 3046.3567267979442,
+        "numericUnit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "description": "Largest Contentful Paint marks the time at which the largest text or image is painted. [Learn more about the Largest Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-largest-contentful-paint/)",
+        "score": 0.19,
+        "scoreDisplayMode": "numeric",
+        "displayValue": "5.5 s",
+        "numericValue": 5475.5,
+        "numericUnit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "id": "cumulative-layout-shift",
+        "title": "Cumulative Layout Shift",
+        "description": "Cumulative Layout Shift measures the movement of visible elements within the viewport. [Learn more about the Cumulative Layout Shift metric](https://web.dev/articles/cls).",
+        "score": 1,
+        "scoreDisplayMode": "numeric",
+        "displayValue": "0",
+        "details": {
+          "type": "debugdata",
+          "items": [
+            {
+              "newEngineResult": {
+                "cumulativeLayoutShift": 0,
+                "cumulativeLayoutShiftMainFrame": 0
+              },
+              "newEngineResultDiffered": false,
+              "cumulativeLayoutShiftMainFrame": 0
+            }
+          ]
+        },
+        "numericValue": 0,
+        "numericUnit": "unitless"
+      },
+      "speed-index": {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "description": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more about the Speed Index metric](https://developer.chrome.com/docs/lighthouse/performance/speed-index/).",
+        "score": 0.58,
+        "scoreDisplayMode": "numeric",
+        "displayValue": "5.3 s",
+        "numericValue": 5322.970024506303,
+        "numericUnit": "millisecond"
+      },
+      "server-response-time": {
+        "id": "server-response-time",
+        "title": "Initial server response time was short",
+        "description": "Keep the server response time for the main document short because all other requests depend on it. [Learn more about the Time to First Byte metric](https://developer.chrome.com/docs/lighthouse/performance/time-to-first-byte/).",
+        "score": 1,
+        "scoreDisplayMode": "metricSavings",
+        "displayValue": "Root document took 0 ms",
+        "metricSavings": {
+          "LCP": 0,
+          "FCP": 0
+        },
+        "details": {
+          "type": "opportunity",
+          "overallSavingsMs": 0,
+          "items": [
+            {
+              "responseTime": 4,
+              "url": "https://keyshorts.com/"
+            }
+          ],
+          "headings": [
+            {
+              "key": "url",
+              "label": "URL",
+              "valueType": "url"
+            },
+            {
+              "label": "Time Spent",
+              "key": "responseTime",
+              "valueType": "timespanMs"
+            }
+          ]
+        },
+        "numericValue": 4,
+        "numericUnit": "millisecond"
+      },
+      "total-blocking-time": {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "description": "Sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds. [Learn more about the Total Blocking Time metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-total-blocking-time/).",
+        "score": 1,
+        "scoreDisplayMode": "numeric",
+        "displayValue": "50 ms",
+        "numericValue": 49,
+        "numericUnit": "millisecond"
+      },
+      "interactive": {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "description": "Time to Interactive is the amount of time it takes for the page to become fully interactive. [Learn more about the Time to Interactive metric](https://developer.chrome.com/docs/lighthouse/performance/interactive/).",
+        "score": 0.7,
+        "scoreDisplayMode": "numeric",
+        "displayValue": "5.5 s",
+        "numericValue": 5528.05,
+        "numericUnit": "millisecond"
+      },
+      "screenshot-thumbnails": {
+        "id": "screenshot-thumbnails",
+        "title": "Screenshot Thumbnails",
+        "description": "This is what the load of your site looked like.",
+        "score": 1,
+        "scoreDisplayMode": "informative"
+      }
+    },
+    "categories": {
+      "performance": {
+        "id": "performance",
+        "title": "Performance",
+        "score": 0.7
+      },
+      "accessibility": {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "score": 0.93
+      },
+      "best-practices": {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 0.92
+      },
+      "seo": {
+        "id": "seo",
+        "title": "SEO",
+        "score": 0.92
+      }
+    }
+  },
+  "analysisUTCTimestamp": "2026-09-01T12:57:12.132Z"
+}
